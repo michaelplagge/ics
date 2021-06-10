@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;}
+	.st1{display:inline;fill:#E62C2A;stroke:#000000;stroke-width:16;stroke-miterlimit:10;}
+	.st2{display:inline;fill:none;stroke:#010202;stroke-width:60;stroke-linecap:round;stroke-miterlimit:10;}
+	.st3{display:inline;fill:none;stroke:#010202;stroke-width:40;stroke-linecap:round;stroke-miterlimit:10;}
+	.st4{display:inline;}
+	.st5{display:inline;fill:none;stroke:#000000;stroke-width:20;stroke-miterlimit:10;}
+	.st6{fill:#4AAE4D;}
+	.st7{fill:#D4E1F4;}
+</style>
+<g id="Ebene_1" class="st0">
+	<rect x="95.89" y="95.89" class="st1" width="320.22" height="320.22"/>
+</g>
+<g id="Delete" class="st0">
+	<line class="st2" x1="138.06" y1="373.94" x2="373.94" y2="138.06"/>
+	<line class="st2" x1="138.06" y1="138.06" x2="373.94" y2="373.94"/>
+</g>
+<g id="Ebene_4" class="st0">
+	<line class="st3" x1="138.56" y1="373.44" x2="373.44" y2="138.56"/>
+	<line class="st3" x1="138.56" y1="138.56" x2="373.44" y2="373.44"/>
+</g>
+<g id="Ebene_3" class="st0">
+	<g class="st4">
+		<path d="M407.02,99.78l7.04,12.21c-45.88,32.41-88.39,73.44-127.53,123.07c-39.15,49.64-67.41,98.25-84.79,145.85l-10.33,6.81
+			c-8.92,5.79-16.6,11.59-23.02,17.38c-1.1-5.64-4.15-14.72-9.16-27.24l-5.4-13.39c-11.74-28.97-21.65-49.2-29.71-60.71
+			c-8.07-11.51-16.79-17.73-26.19-18.67c12.68-11.58,23.72-17.38,33.12-17.38c12.99,0,27.24,17.46,42.75,52.37l8.46,18.79
+			c27.71-49.63,61.18-95.35,100.4-137.16C321.88,159.91,363.33,125.93,407.02,99.78z"/>
+	</g>
+	<circle class="st5" cx="256" cy="256" r="243.67"/>
+</g>
+<g id="Ebene_5">
+	<g>
+		<path class="st6" d="M256,4.56c138.87,0,251.44,112.58,251.44,251.44S394.87,507.44,256,507.44S4.56,394.87,4.56,256l0,0
+			C4.16,117.53,116.1,4.95,254.57,4.56C255.05,4.56,255.52,4.56,256,4.56z"/>
+		<polygon class="st7" points="395.29,186.71 216.71,365.29 116.71,266 157.42,226 216.71,284.57 354.58,146.71 		"/>
+	</g>
+</g>
+</svg>
