@@ -5,7 +5,7 @@
 
     <xsl:variable name="popup-script">
         <![CDATA[
-            1 && alert("!")
+            alert("!")
         ]]>
     </xsl:variable>
 </xsl:stylesheet>
